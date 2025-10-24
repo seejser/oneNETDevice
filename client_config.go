@@ -24,7 +24,7 @@ const (
 	AccessKey   = "" // 产品的 Access Key
 	
 	// Broker URL (使用 MQTTS)
-	BrokerURL   = "ssl://5S34OM4Rc6.mqttstls.acc.cmcconenet.cn:8883" 
+	BrokerURL   = "" 
 	
 	// Token 算法配置
 	AuthVersion    = "2018-10-31" 
